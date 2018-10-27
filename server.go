@@ -6,10 +6,10 @@ import (
 	"flag"
 	"fmt"
 	"git.apache.org/thrift.git/lib/go/thrift"
+	"github.com/globaspect/thriftTest/ThriftTest/thriftTemplates/gen-go/base"
 	"os"
 	"strings"
 	"thriftClient/example"
-	"thriftClient/gen-go/base"
 	"thriftClient/thrift_unix_domain"
 )
 
